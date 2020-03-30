@@ -1,4 +1,4 @@
-import sys
+import sys 
 sys.path.insert(0, '../ELINA/python_interface/')
 sys.path.insert(1, '../tf_verify/')
 import traceback
